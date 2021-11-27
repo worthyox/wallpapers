@@ -8,7 +8,6 @@ Because I downloaded most of these from sites like Imgur and /wg/, I have no way
 
 ## My current wallpaper rotation
 
-[![.DS_Store](https://raw.githubusercontent.com/worthyox/wallpapers/master/thumbnails/.DS_Store)](https://raw.githubusercontent.com/worthyox/wallpapers/master/papes/.DS_Store)
 [![01.jpg](https://raw.githubusercontent.com/worthyox/wallpapers/master/thumbnails/01.jpg)](https://raw.githubusercontent.com/worthyox/wallpapers/master/papes/01.jpg)
 [![010.jpg](https://raw.githubusercontent.com/worthyox/wallpapers/master/thumbnails/010.jpg)](https://raw.githubusercontent.com/worthyox/wallpapers/master/papes/010.jpg)
 [![0100.jpg](https://raw.githubusercontent.com/worthyox/wallpapers/master/thumbnails/0100.jpg)](https://raw.githubusercontent.com/worthyox/wallpapers/master/papes/0100.jpg)
