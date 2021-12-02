@@ -11,9 +11,9 @@
 rm -rf thumbnails
 mkdir thumbnails
 
-url_root="https://raw.githubusercontent.com/worthyox/wallpapers/master"
+url_root="https://raw.githubusercontent.com/hi-sg/wallpapers/master"
 
-echo "# Worthyox's Wallpaper Collection" >README.md
+echo "# Steve's Wallpaper Collection" >README.md
 echo "" >>README.md
 echo "I have collected these wallpapers over a number of years. This is my entire wallpaper directory for those that want/need them. Created with a slightly modified version of [make_gallery.sh](https://github.com/jonascarpay/Wallpapers/blob/master/make_gallery.sh) script by Jonas Carpay." >>README.md
 echo "## Where did I get these?" >>README.md
